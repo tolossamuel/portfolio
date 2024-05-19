@@ -5,12 +5,12 @@ Welcome to my personal portfolio website repository! This README provides an ove
 
 ## Table of Contents
 
-1. [Introduction](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#introduction)
-2. [Technologies Used](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#technologies-used)
-3. [Features](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#features)
-4. [How to Use](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#how-to-use)
-5. [Customization](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#customization)
-6. [Support and Feedback](https://chatgpt.com/c/71946886-764d-4c0e-9fe0-571ddb97d771#support-and-feedback)
+1. Introduction
+2. Technologies Used
+3. Features
+4. How to Use
+5. Customization
+6. Support and Feedback
 
 ## Introduction
 
@@ -55,7 +55,7 @@ Welcome to my personal portfolio website repository! This README provides an ove
 
 1. [Introduction](## Introduction)
 2. [Technologies Used](Technologies Used)
-3. [Features]()
+3. Features
 4. How to Use
 5. Customization
 6. Support and Feedback
