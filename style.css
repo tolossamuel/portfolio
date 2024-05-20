@@ -10,6 +10,7 @@
 body {
   font-family: "Poppins", sans-serif;
   /* background-color: rgb(37, 36, 36); */
+  /* background: linear-gradient(to right, #BDC3C7,#2C3E50); */
   background: linear-gradient(to right, #C33764  , #1D2671);
 }
 
