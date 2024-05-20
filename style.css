@@ -9,7 +9,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(37, 36, 36); */
+  background: linear-gradient(to right, #C33764  , #1D2671);
 }
 
 .circular-image {
@@ -24,7 +25,7 @@ html {
 }
 
 p {
-  color: rgb(0, 0, 0);
+  color: rgb(187, 185, 185);
   
 }
 
@@ -52,7 +53,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(190, 188, 188);
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -66,6 +67,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  color: rgb(174, 174, 174);
 }
 
 .logo:hover {
@@ -93,7 +95,7 @@ a:hover {
 .hamburger-icon span {
   width: 100%;
   height: 2px;
-  background-color: black;
+  background-color: rgb(157, 155, 155);
   transition: all 0.3 ease-in-out;
 }
 
@@ -113,7 +115,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
-  color: black;
+  color: rgb(154, 150, 150);
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
@@ -199,6 +201,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: white
 }
 
 #socials-container {
@@ -227,26 +230,30 @@ section {
   padding: 1rem;
   width: 8rem;
   border-radius: 2rem;
+  color: rgb(168, 162, 162);
 }
 
 .btn-color-1,
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(173, 168, 168) 0.1rem solid;
+  background-color: white;
+  
 }
 
 .btn-color-1:hover,
 .btn-color-2:hover {
   cursor: pointer;
+
 }
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: rgb(184, 182, 182);
   color: white;
 }
 
 .btn-color-1:hover {
-  background: rgb(0, 0, 0);
+  background: rgb(176, 175, 175);
 }
 
 .btn-color-2 {
@@ -269,11 +276,13 @@ section {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+  
 }
 
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  
 }
 
 .about-containers,
@@ -294,7 +303,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background: rgb(133, 233, 229);
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -368,7 +377,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: rgb(128, 128, 128);
 }
 
 .project-btn {
