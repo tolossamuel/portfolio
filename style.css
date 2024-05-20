@@ -13,6 +13,7 @@ body {
   background: linear-gradient(to right, #BDC3C7,#2C3E50);
   /* background: linear-gradient(to right, #C33764  , #1D2671); */
   /* background: linear-gradient(to right, #EBEBEB , #4062BB); */
+  overflow-x: hidden;
 }
 
 .circular-image {
@@ -383,6 +384,7 @@ article .icon {
   background: rgb(250, 250, 250,0.2);
   
 }
+
 .article-container:hover{
     width: 600px;
 }
@@ -451,4 +453,18 @@ footer {
 
 footer p {
   text-align: center;
+}
+/* animation */
+.hidden {
+    opacity: 0;
+    transition: all 1s;
+}
+.hidden {
+    opacity: 1;
+}
+
+@media(prefers-reduced-motion) {
+    .hidden {
+        transition: none;
+    }
 }
